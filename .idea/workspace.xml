@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="901c8092-82a9-4262-a72a-5a440827dc4f" name="Default Changelist" comment="Commited project" />
+    <list default="true" id="901c8092-82a9-4262-a72a-5a440827dc4f" name="Default Changelist" comment="Commited project">
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Levenshtein.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levenshtein.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpellChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpellChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trigram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trigram.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,22 +55,23 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1ie1DIFGcepxkNDR6xHobv0IlFs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/olivi/Downloads/tp2-master",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/olivi/Downloads/tp2-fa9d6ff8fc37d9d688c953f2d3f6179c4fe79998&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -97,7 +108,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602253123186</updated>
       <workItem from="1668460256863" duration="3368000" />
-      <workItem from="1669314568508" duration="5630000" />
+      <workItem from="1669314568508" duration="12695000" />
+      <workItem from="1669381530253" duration="3454000" />
+      <workItem from="1669392259173" duration="29192000" />
     </task>
     <task id="LOCAL-00001" summary="Commited project">
       <created>1602254857584</created>

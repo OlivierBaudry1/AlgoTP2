@@ -6,11 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Options.parseCommandLine(args);
 
-
-        HashMap<String,HashSet<String>> test = new HashMap<>();
-        HashSet<String> toto = new HashSet<>();
-
-
         Timer timer_dico = new Timer("Dictionnaire");
         Dictionary dico = new Dictionary(Options.pathToDictionary);
         timer_dico.print_time_past();
@@ -19,10 +14,14 @@ public class Main {
         Timer timer_speller = new Timer("Spelchecker");
 
         SpellChecker spellchecker = new SpellChecker(Options.pathToFile, Options.word, dico);
+        String test = "abcisse";
+        System.out.println(dico.contains(test));
+        spellchecker.spell(test);
         for (String word : spellchecker.getWords()) {
             spellchecker.spell(word);
         }
         timer_speller.print_time_past();
+
     }
 
     private static class Timer {
